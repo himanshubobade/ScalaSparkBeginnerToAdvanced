@@ -1,6 +1,6 @@
 package com.example
 
-import com.example.scalaFundamentals.CoreScalaConcepts.operatorloops
+import com.example.scalaFundamentals.CoreScalaConcepts.{ErrorHandling, HOF_ClosuresCurrying, LazyEvaluation, collections, operatorloops}
 import org.apache.spark.sql.SparkSession
 object M {
   def main(args: Array[String]): Unit = {
@@ -19,8 +19,12 @@ object M {
 
     println("I read till here")
 
-    operatorloops.operatorloops()
+    //operatorloops.operatorloops()
     //readwrite.readwrite(spark)
+    //HOF_ClosuresCurrying.HOF_ClosuresCurrying()
+    //collections.collections()
+    //ErrorHandling.ErrorHandling()
+    LazyEvaluation.LazyEvaluation()
 
   }
 }
