@@ -1,0 +1,41 @@
+[debug] Packaging C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\assignment1_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com
+[debug] 	com\example
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example
+[debug] 	com\example\assets
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\assets
+[debug] 	com\example\assets\customers-1000.csv
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\assets\customers-1000.csv
+[debug] 	com\example\assets\Employee_Salary_Dataset.csv
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\assets\Employee_Salary_Dataset.csv
+[debug] 	com\example\assets\organizations-1000.csv
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\assets\organizations-1000.csv
+[debug] 	com\example\assets\people-1000.csv
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\assets\people-1000.csv
+[debug] 	com\example\assets\textfile.txt
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\assets\textfile.txt
+[debug] 	com\example\M$.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\M$.class
+[debug] 	com\example\M.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\M.class
+[debug] 	com\example\readwrite$.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\readwrite$.class
+[debug] 	com\example\readwrite.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\readwrite.class
+[debug] 	com\example\scalaFundamentals
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\scalaFundamentals
+[debug] 	com\example\scalaFundamentals\CoreScalaConcepts
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\scalaFundamentals\CoreScalaConcepts
+[debug] 	com\example\scalaFundamentals\CoreScalaConcepts\operatorloops$.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\scalaFundamentals\CoreScalaConcepts\operatorloops$.class
+[debug] 	com\example\scalaFundamentals\CoreScalaConcepts\operatorloops$Person$1.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\scalaFundamentals\CoreScalaConcepts\operatorloops$Person$1.class
+[debug] 	com\example\scalaFundamentals\CoreScalaConcepts\operatorloops$Person$2$.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\scalaFundamentals\CoreScalaConcepts\operatorloops$Person$2$.class
+[debug] 	com\example\scalaFundamentals\CoreScalaConcepts\operatorloops.class
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\scalaFundamentals\CoreScalaConcepts\operatorloops.class
+[debug] 	com\example\spark_submit.sh
+[debug] 	  C:\Users\HIMANSHUU\IdeaProjects\spark_sbt_setup_CLI_practice\target\scala-2.12\classes\com\example\spark_submit.sh
+[debug] Done packaging.
