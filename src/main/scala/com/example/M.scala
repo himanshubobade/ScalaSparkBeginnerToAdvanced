@@ -1,6 +1,7 @@
 package com.example
 
-import com.example.scalaFundamentals.ConcurrencyParallelism.{AkkaActorsModel, FuturesPromises, ParallelCollections}
+import com.example.scalaFundamentals.ConcurrencyParallelism.AkkaActorsModel.{AkkaActorsModelBasic, AkkaActorsModelReply, AkkaActorsModelStopActor}
+import com.example.scalaFundamentals.ConcurrencyParallelism.{FuturesPromises, ParallelCollections}
 import com.example.scalaFundamentals.CoreScalaConcepts.{ErrorHandling, HOF_ClosuresCurrying, LazyEvaluation, collections, operatorloops}
 import com.example.scalaFundamentals.FunctionalProgramming.{MapFlatMapFilterReduceFoldScan, MonadsForComprehensions, PureFunctionsReferentialTransparency}
 import org.apache.spark.sql.SparkSession
@@ -32,7 +33,9 @@ object M {
     //PureFunctionsReferentialTransparency.PureFunctionsReferentialTransparency()
     //MonadsForComprehensions.MonadsForComprehensions()
     //FuturesPromises.FuturesPromises()
-    //AkkaActorsModel.AkkaActorsModel()
+    //AkkaActorsModelBasic.AkkaActorsModelBasic()
+    //AkkaActorsModelStopActor.AkkaActorsModelStopActor()
+    //AkkaActorsModelReply.AkkaActorsModelReply()
     ParallelCollections.ParallelCollections()
 
   }

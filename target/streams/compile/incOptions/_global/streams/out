@@ -1,15 +1,60 @@
 [debug] Created transactional ClassFileManager with tempDir = C:\Users\HIMANSHUU\IdeaProjects\ScalaSparkBeginnerToAdvanced\target\scala-2.12\classes.bak
 [debug] About to delete class files:
-[debug] 	M$.class
-[debug] 	M.class
 [debug] We backup class files:
-[debug] 	M$.class
-[debug] 	M.class
 [debug] Registering generated classes:
 [debug] 	M$.class
+[debug] 	StopActor.class
+[debug] 	HOF_ClosuresCurrying$.class
+[debug] 	AkkaActorsModelBasic.class
+[debug] 	PartialFunctions.class
+[debug] 	PureFunctionsReferentialTransparency$.class
+[debug] 	Greeter$Greeted.class
+[debug] 	Greeter.class
+[debug] 	readwrite.class
+[debug] 	PartialFunctions$$anonfun$2.class
+[debug] 	LazyEvaluation$.class
+[debug] 	HOF_ClosuresCurrying.class
+[debug] 	ParallelCollections.class
+[debug] 	ErrorHandling$$anonfun$1.class
+[debug] 	SimpleActor.class
+[debug] 	ErrorHandling$.class
+[debug] 	PartialFunctions$$anonfun$5.class
+[debug] 	ErrorHandling.class
+[debug] 	AkkaActorsModelReply$.class
+[debug] 	AkkaActorsModelStopActor$.class
+[debug] 	Greeter$Greeted$.class
+[debug] 	operatorloops$Person$1.class
+[debug] 	Greeter$Greet.class
+[debug] 	MonadsForComprehensions$.class
 [debug] 	M.class
+[debug] 	Greeter$Greet$.class
+[debug] 	Greeter$.class
 [debug] 	FuturesPromises$$anonfun$2.class
+[debug] 	PartialFunctions$.class
+[debug] 	operatorloops.class
+[debug] 	collections.class
+[debug] 	AkkaActorsModelStopActor.class
+[debug] 	ImplicitParameter_Conversion.class
+[debug] 	readwrite$.class
+[debug] 	operatorloops$.class
+[debug] 	collections$.class
+[debug] 	ErrorHandling$$anonfun$2.class
+[debug] 	SimpleActor$.class
+[debug] 	StopActor$.class
+[debug] 	ParallelCollections$.class
+[debug] 	PartialFunctions$$anonfun$3.class
+[debug] 	AkkaActorsModelBasic$.class
+[debug] 	LazyEvaluation.class
+[debug] 	MonadsForComprehensions.class
+[debug] 	MapFlatMapFilterReduceFoldScan.class
+[debug] 	PartialFunctions$$anonfun$1.class
 [debug] 	FuturesPromises$.class
+[debug] 	MapFlatMapFilterReduceFoldScan$.class
 [debug] 	FuturesPromises$$anonfun$1.class
+[debug] 	ImplicitParameter_Conversion$.class
+[debug] 	PartialFunctions$$anonfun$4.class
+[debug] 	operatorloops$Person$2$.class
+[debug] 	PureFunctionsReferentialTransparency.class
 [debug] 	FuturesPromises.class
+[debug] 	AkkaActorsModelReply.class
 [debug] Removing the temporary directory used for backing up class files: C:\Users\HIMANSHUU\IdeaProjects\ScalaSparkBeginnerToAdvanced\target\scala-2.12\classes.bak
