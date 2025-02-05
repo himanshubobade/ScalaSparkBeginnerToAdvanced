@@ -1,59 +1,15 @@
 [debug] Created transactional ClassFileManager with tempDir = C:\Users\HIMANSHUU\IdeaProjects\ScalaSparkBeginnerToAdvanced\target\scala-2.12\classes.bak
 [debug] About to delete class files:
 [debug] 	M$.class
-[debug] 	collections.class
-[debug] 	ErrorHandling$.class
-[debug] 	collections$.class
-[debug] 	LazyEvaluation$.class
-[debug] 	readwrite.class
-[debug] 	operatorloops$.class
-[debug] 	ErrorHandling$$anonfun$1.class
-[debug] 	operatorloops.class
 [debug] 	M.class
-[debug] 	ErrorHandling$$anonfun$2.class
-[debug] 	HOF_ClosuresCurrying.class
-[debug] 	HOF_ClosuresCurrying$.class
-[debug] 	readwrite$.class
-[debug] 	operatorloops$Person$2$.class
-[debug] 	operatorloops$Person$1.class
-[debug] 	LazyEvaluation.class
-[debug] 	ErrorHandling.class
 [debug] We backup class files:
 [debug] 	M$.class
-[debug] 	collections.class
-[debug] 	ErrorHandling$.class
-[debug] 	collections$.class
-[debug] 	LazyEvaluation$.class
-[debug] 	readwrite.class
-[debug] 	operatorloops$.class
-[debug] 	ErrorHandling$$anonfun$1.class
-[debug] 	operatorloops.class
 [debug] 	M.class
-[debug] 	ErrorHandling$$anonfun$2.class
-[debug] 	HOF_ClosuresCurrying.class
-[debug] 	HOF_ClosuresCurrying$.class
-[debug] 	readwrite$.class
-[debug] 	operatorloops$Person$2$.class
-[debug] 	operatorloops$Person$1.class
-[debug] 	LazyEvaluation.class
-[debug] 	ErrorHandling.class
 [debug] Registering generated classes:
 [debug] 	M$.class
-[debug] 	HOF_ClosuresCurrying$.class
-[debug] 	readwrite.class
-[debug] 	LazyEvaluation$.class
-[debug] 	HOF_ClosuresCurrying.class
-[debug] 	ErrorHandling$$anonfun$1.class
-[debug] 	ErrorHandling$.class
-[debug] 	ErrorHandling.class
-[debug] 	operatorloops$Person$1.class
 [debug] 	M.class
-[debug] 	operatorloops.class
-[debug] 	collections.class
-[debug] 	readwrite$.class
-[debug] 	operatorloops$.class
-[debug] 	collections$.class
-[debug] 	ErrorHandling$$anonfun$2.class
-[debug] 	LazyEvaluation.class
-[debug] 	operatorloops$Person$2$.class
+[debug] 	FuturesPromises$$anonfun$2.class
+[debug] 	FuturesPromises$.class
+[debug] 	FuturesPromises$$anonfun$1.class
+[debug] 	FuturesPromises.class
 [debug] Removing the temporary directory used for backing up class files: C:\Users\HIMANSHUU\IdeaProjects\ScalaSparkBeginnerToAdvanced\target\scala-2.12\classes.bak

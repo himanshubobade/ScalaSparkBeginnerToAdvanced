@@ -6,7 +6,7 @@ val sparkVersion = "3.1.2"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "Assignment1",
+    name := "ScalaBasics",
     // Define merge strategy
     assemblyMergeStrategy in assembly := {
       case PathList("META-INF", xs @ _*) => MergeStrategy.discard
@@ -23,4 +23,4 @@ libraryDependencies ++= Seq(
 enablePlugins(AssemblyPlugin)
 
 // Define sbt-assembly settings
-assembly / assemblyJarName := "Assignment1.jar"
+assembly / assemblyJarName := "ScalaBasics.jar"

@@ -1,6 +1,8 @@
 package com.example
 
+import com.example.scalaFundamentals.ConcurrencyParallelism.{AkkaActorsModel, FuturesPromises, ParallelCollections}
 import com.example.scalaFundamentals.CoreScalaConcepts.{ErrorHandling, HOF_ClosuresCurrying, LazyEvaluation, collections, operatorloops}
+import com.example.scalaFundamentals.FunctionalProgramming.{MapFlatMapFilterReduceFoldScan, MonadsForComprehensions, PureFunctionsReferentialTransparency}
 import org.apache.spark.sql.SparkSession
 object M {
   def main(args: Array[String]): Unit = {
@@ -24,7 +26,14 @@ object M {
     //HOF_ClosuresCurrying.HOF_ClosuresCurrying()
     //collections.collections()
     //ErrorHandling.ErrorHandling()
-    LazyEvaluation.LazyEvaluation()
+    //LazyEvaluation.LazyEvaluation()
+    //PureFunctionsReferentialTransparency.PureFunctionsReferentialTransparency()
+    //MapFlatMapFilterReduceFoldScan.MapFlatMapFilterReduceFoldScan()
+    //PureFunctionsReferentialTransparency.PureFunctionsReferentialTransparency()
+    //MonadsForComprehensions.MonadsForComprehensions()
+    //FuturesPromises.FuturesPromises()
+    //AkkaActorsModel.AkkaActorsModel()
+    ParallelCollections.ParallelCollections()
 
   }
 }
